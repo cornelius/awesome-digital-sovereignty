@@ -14,7 +14,7 @@ This list includes resources in multiple languages. There is a badge at each ent
 
 ## Overviews
 
-* [Digitale Souveränität](https://de.wikipedia.org/wiki/Digitale_Souver%C3%A4nit%C3%A4t) - Wikipedia's overview about the term <span class="lang-badge">de</span>
+* [Digitale Souveränität](https://de.wikipedia.org/wiki/Digitale_Souver%C3%A4nit%C3%A4t) - Wikipedia's overview about the term ![de](https://img.shields.io/badge/de-e6f0ff)
 * [REPORT on European technological sovereignty and digital infrastructure](https://www.europarl.europa.eu/doceo/document/A-10-2025-0107_EN.html#_section1) - Resolution of the European Parliament <span class="lang-badge">bg</span><span class="lang-badge">cs</span><span class="lang-badge">da</span><span class="lang-badge">de</span><span class="lang-badge">el</span><span class="lang-badge">en</span><span class="lang-badge">es</span><span class="lang-badge">et</span><span class="lang-badge">fr</span>
 * [Commission opens call for evidence on Open-Source Digital Ecosystems](https://digital-strategy.ec.europa.eu/en/news/commission-opens-call-evidence-open-source-digital-ecosystems) - EU's call for feedback and input on an open source strategy to achieve more digital sovereignty <span class="lang-badge">en</span>
 * [Digital Sovereignty: A Descriptive Analysis and a Critical Evaluation of Existing Models](https://link.springer.com/article/10.1007/s44206-024-00146-7) - Research paper analyzing different models of digital sovereignty <span class="lang-badge">en</span>
