@@ -45,6 +45,7 @@ für die IT der Öffentlichen Verwaltung](https://www.it-planungsrat.de/fileadmi
 ## Initiatives
 
 * [Funding Europe's Open Digital Infrastructure](https://eu-stf.openforumeurope.org/) - Call for an EU Sovereign Tech Fund ![][en]
+* [Digital Independence Day](https://di.day/) - Monthly event and practical advise and help to switch to more independent solutions
 
 ## Vendor information
 
