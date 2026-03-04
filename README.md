@@ -21,6 +21,7 @@ This list includes resources in multiple languages. There is a badge at each ent
 * [Open Source - The Key to Digital Sovereignty and Growth](https://www.linkedin.com/posts/dirk-schr%C3%B6dter-012866226_open-source-the-key-to-digital-sovereignty-ugcPost-7423416073418350592-6Syr) - Economic view on open source es enabler for digital sovereignty ![][en]
 * [Digital Sovereignty](https://fundamentals.weizenbaum-institut.de/weizenbaum/pdf/en/digital-sovereignty.pdf) - Background on digital sovereignty with lots of references ![][en]
 * [What is digital sovereignty and how are countries approaching it?](https://www.weforum.org/stories/2025/01/europe-digital-sovereignty/) - Overview on country's approach to digital sovereignty by the World Economic Forum ![][en]
+* [Digitale Souveränität](https://www.oeffentliche-it.de/publikationen/digitale-souveraenitaet/Digitale%20Souver%C3%A4nit%C3%A4t.pdf) - Paper from 2017 that is the source of the definition of digital sovereignty which is widely used in the German public sector ![][de]
 
 ## Assessing digital sovereignty
 
