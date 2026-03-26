@@ -29,6 +29,7 @@ This list includes resources in multiple languages. There is a badge at each ent
 * [Digital Sovereignty Index](https://dsi.nextcloud.com/index.php) - Measurements to compare digital sovereignty of countries ![][en]
 * [Sovereign Cloud Compass](https://www.sovereigncloudcompass.de/) - Transparent comparison of cloud providers regarding sovereignty criteria ![][de]
 * [Cloud Sovereignty Framework](https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113_en?filename=Cloud-Sovereignty-Framework.pdf) - Sovereignty objectives for cloud services by the EU commission ![][en]
+* [Kriterien zur Bewertung von Digitaler Souveränität](https://www.zendis.de/media/pages/newsroom/publikationen/konsultationsprozesskriterien/97c259289f-1774439296/zendis_diskussionspapier-kriterien-bewertung-digitaler-souveraenitaet.pdf) - Proposal for criteria to assess digital sovereignty by German center for digital sovereignty of public adminstration (Zendis) ![][de]
 
 ## National and regional approaches
 
@@ -37,7 +38,7 @@ This list includes resources in multiple languages. There is a badge at each ent
 * [Strategie zur Stärkung der Digitalen Souveränität
 für die IT der Öffentlichen Verwaltung](https://www.it-planungsrat.de/fileadmin/beschluesse/2021/Beschluss2021-09_Strategie_zur_Staerkung_der_digitalen_Souveraenitaet.pdf) - Strategy of German public administration to strengthen digital sovereignty ![][de]
 * [Open Source Strategie für das Land Berlin](https://www.berlin.de/moderne-verwaltung/_assets/02_anlage-rs_open-source-strategie-fuer-das-land-berlin_20260114.pdf?ts=1768477958) - Open source strategy of the city of Berlin ![][de]
-* [Digitale Souveränität als strategisches Leitprinzip – Sichere Software für München](https://risi.muenchen.de/risi/sitzungsvorlage/detail/9417965) - Definition of digital sovereignty and results of sovereignty check of the city of Munich ![][de] 
+* [Digitale Souveränität als strategisches Leitprinzip – Sichere Software für München](https://risi.muenchen.de/risi/sitzungsvorlage/detail/9417965) - Definition of digital sovereignty and results of sovereignty check of the city of Munich ![][de]
 
 ## Positions
 
