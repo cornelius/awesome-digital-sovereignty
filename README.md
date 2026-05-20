@@ -30,6 +30,7 @@ This list includes resources in multiple languages. There is a badge at each ent
 * [Sovereign Cloud Compass](https://www.sovereigncloudcompass.de/) - Transparent comparison of cloud providers regarding sovereignty criteria ![][de]
 * [Cloud Sovereignty Framework](https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113_en?filename=Cloud-Sovereignty-Framework.pdf) - Sovereignty objectives for cloud services by the EU commission ![][en]
 * [Kriterien zur Bewertung von Digitaler Souveränität](https://www.zendis.de/media/pages/newsroom/publikationen/konsultationsprozesskriterien/97c259289f-1774439296/zendis_diskussionspapier-kriterien-bewertung-digitaler-souveraenitaet.pdf) - Proposal for criteria to assess digital sovereignty by German center for digital sovereignty of public adminstration (Zendis) ![][de]
+* [Criteria enabling Cloud Computing Autonomy (C3A)](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/CloudComputing/C3A_Cloud_Computing_Autonomy.pdf) - Criteria of the German Federal Office for Information Security (BSI) for assessing whether a given set of cloud services allows for self-determined use ![][en] ![][de]
 
 ## National and regional approaches
 
