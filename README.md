@@ -29,15 +29,22 @@ This list includes resources in multiple languages. There is a badge at each ent
 * [Digital Sovereignty Index](https://dsi.nextcloud.com/index.php) - Measurements to compare digital sovereignty of countries ![][en]
 * [Sovereign Cloud Compass](https://www.sovereigncloudcompass.de/) - Transparent comparison of cloud providers regarding sovereignty criteria ![][de]
 * [Cloud Sovereignty Framework](https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113_en?filename=Cloud-Sovereignty-Framework.pdf) - Sovereignty objectives for cloud services by the EU commission ![][en]
+* [Digital Resilience Index](https://digitalresilienceinitiative.org/en) - Framework for measuring technical dependence of an organization ![][en] ![][fr]
+* [The Software Sovereignty Scale](https://dri.es/the-software-sovereignty-scale) - Scale for control about software based on licenses
+
+## Strategies
+
+* [European Technology Sovereignty Package](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy) - Europe's strategy for digital sovereignty including an open source strategy
 
 ## National and regional approaches
 
 * [Open-Source-Strategie Schleswig-Holstein](https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/linux-plus1/Projekt/open-source-strategie) - Strategy of German state Schlewsig-Holstein to achieve digital sovereignty ![][de] ![][en]
 * [Digital Sovereignty: A Framework to improve digital readiness of the Government of Canada](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/digital-sovereignty/digital-sovereignty-framework-improve-digital-readiness.html) - Approach of Canadian Government focused on its internal operations ![][en]
+* [Digitale Souveränität der Schweiz](https://cms.news.admin.ch/dam/de/der-schweizerische-bundesrat/1-uv2ILsnpJO/Beilage+01+Bericht+in+Erf%C3%BCllung+des+Postulats+22.4411+DE+zu+BRA+EDA.pdf) - Analysis of digital sovereignty and strategy how it is addressed in Switzerland ![][de]
 * [Strategie zur Stärkung der Digitalen Souveränität
 für die IT der Öffentlichen Verwaltung](https://www.it-planungsrat.de/fileadmin/beschluesse/2021/Beschluss2021-09_Strategie_zur_Staerkung_der_digitalen_Souveraenitaet.pdf) - Strategy of German public administration to strengthen digital sovereignty ![][de]
 * [Open Source Strategie für das Land Berlin](https://www.berlin.de/moderne-verwaltung/_assets/02_anlage-rs_open-source-strategie-fuer-das-land-berlin_20260114.pdf?ts=1768477958) - Open source strategy of the city of Berlin ![][de]
-* [Digitale Souveränität als strategisches Leitprinzip – Sichere Software für München](https://risi.muenchen.de/risi/sitzungsvorlage/detail/9417965) - Definition of digital sovereignty and results of sovereignty check of the city of Munich ![][de] 
+* [Digitale Souveränität als strategisches Leitprinzip – Sichere Software für München](https://risi.muenchen.de/risi/sitzungsvorlage/detail/9417965) - Definition of digital sovereignty and results of sovereignty check of the city of Munich ![][de]
 
 ## Positions
 
