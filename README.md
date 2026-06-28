@@ -47,6 +47,7 @@ This list includes resources in multiple languages. There is a badge at each ent
 für die IT der Öffentlichen Verwaltung](https://www.it-planungsrat.de/fileadmin/beschluesse/2021/Beschluss2021-09_Strategie_zur_Staerkung_der_digitalen_Souveraenitaet.pdf) - Strategy of German public administration to strengthen digital sovereignty ![][de]
 * [Open Source Strategie für das Land Berlin](https://www.berlin.de/moderne-verwaltung/_assets/02_anlage-rs_open-source-strategie-fuer-das-land-berlin_20260114.pdf?ts=1768477958) - Open source strategy of the city of Berlin ![][de]
 * [Digitale Souveränität als strategisches Leitprinzip – Sichere Software für München](https://risi.muenchen.de/risi/sitzungsvorlage/detail/9417965) - Definition of digital sovereignty and results of sovereignty check of the city of Munich ![][de]
+* [Franco-German Joint Paper on Digital Sovereignty ](https://www.entreprises.gouv.fr/files/files/presse/2026/20260617-franco-german-joint-paper-digital-on-sovereignty.pdf) - Franco-German position focusing on what Europe needs to be able to act ![][de] ![][fr]
 
 ## Positions
 
