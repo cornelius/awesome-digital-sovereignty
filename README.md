@@ -69,6 +69,8 @@ für die IT der Öffentlichen Verwaltung](https://www.it-planungsrat.de/fileadmi
 ## Building sovereign alternatives
 
 * [Verwaltung trifft Open Source und Hochleistung – die Thüringer Verwaltungscloud](https://osb-alliance.de/featured/verwaltung-trifft-open-source-und-hochleistung-die-thueringer-verwaltungscloud) - Report about the sovereign cloud solution of the German state Thüringen ![][de]
+* [France Nuage](https://france-nuage.fr/) - Sovereign open-source cloud provider (compute, S3 storage, Kubernetes) built on open-source infrastructure, hosted in France ![][fr]
+* [Cloud-IAM](https://cloud-iam.com/) - Managed Keycloak SaaS for identity and access management, hosted in Europe ![][fr]
 
 [bg]: https://img.shields.io/badge/bg-eef
 [cs]: https://img.shields.io/badge/cs-eef
