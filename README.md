@@ -69,6 +69,7 @@ für die IT der Öffentlichen Verwaltung](https://www.it-planungsrat.de/fileadmi
 ## Building sovereign alternatives
 
 * [Verwaltung trifft Open Source und Hochleistung – die Thüringer Verwaltungscloud](https://osb-alliance.de/featured/verwaltung-trifft-open-source-und-hochleistung-die-thueringer-verwaltungscloud) - Report about the sovereign cloud solution of the German state Thüringen ![][de]
+* [EU Alts](https://eualts.eu) - Curated directory of EU-headquartered alternatives to popular US tech products, filterable by category and country, with each listing manually verified for jurisdiction and compliance ![][en]
 
 [bg]: https://img.shields.io/badge/bg-eef
 [cs]: https://img.shields.io/badge/cs-eef
